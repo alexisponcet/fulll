@@ -1,0 +1,6 @@
+[submodule "Algo"]
+	path = Algo
+	url = https://github.com/alexisponcet/fulll-algo.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/alexisponcet/fulll-backend.git

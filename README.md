@@ -1,0 +1,1 @@
+This project contains 2 git submodules for the Fulll hiring process (https://github.com/fulll/hiring).
